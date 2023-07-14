@@ -2,6 +2,6 @@
 //跳转案例
 var urls=[
 
-'https://3977610.com:14125/register?id=35750244',//
+'https://3977610.com:15882/register?id=15232017',//
 
 ];
